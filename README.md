@@ -1,2 +1,2 @@
 # TipCalculator
-  building new Tip Cal
+  building new Cal Tip
