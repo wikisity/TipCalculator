@@ -1,4 +1,4 @@
-# Pre-work - *TipCalculator*
+# Pre-work - *Tip Calculator*
 
 **TipCalculator** is a tip calculator application for iOS.
 
@@ -27,19 +27,19 @@ The following **additional** features are to be implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/CAjLd' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-One challenge I had was to make background color 
-of the the title **TipCaluclator**
-fits into the top view of the App. It was a little challenging 
-to re-change the layout to a new one. I am not sure if it was 
-an OS issue, but the keyboard type - Decimal pad
-did not work at first. I then had to re-run the app a few times to finally 
-have a display of the keyboard pad.
+Switching between layouts can be difficult. I first had a clear idea
+of how I wanted to have each object display on the screen or home page of the App.
+Then I wanted to move some object around or change the position of the title.
+It was a little challenging to have the background color of the title **TipCalculator**
+occupied the entire width of the top view. Also I am not sure if it was an OS problem, but 
+the keyboard pad did not show at first. After re-running the app a few times, I Was able to
+use the keyboard type - decimal pad.
 
 ## License
 
