@@ -33,11 +33,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I had was to make background color of the the title **TipCaluclator**
+fits into the top view of the App. It was a little challenging to re-change the layout
+to a new one. I am not sure if it was an OS issue, but the keyboard type - Decimal pad
+did not work at first. I then had to re-run the app a few times to finally 
+have a display of the keyboard pad.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [yyyy] [Rabson Arnold]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
