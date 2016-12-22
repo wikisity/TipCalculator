@@ -43,7 +43,7 @@ use the keyboard type - decimal pad.
 
 ## License
 
-Copyright [yyyy] [Rabson Arnold]
+Copyright [2016] [Rabson Arnold]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
